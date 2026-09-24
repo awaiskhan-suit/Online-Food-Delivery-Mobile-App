@@ -1,5 +1,49 @@
 # Online-Food-Delivery-Mobile-App
-In this project User first of all should be sign up by name,email and password 
-When user create his account then it purchase products but for purchasing the products user should be login
-After login it can purchase the products and increase and decrease the quantity of products by add and remove icon by which corresponding price of products will be change
-When user purchase the products it added in add to cart icon in which there is a button for purchasing when user press this button pop up page is display to the user i-e Purchase Successfull
+
+A modern ** Online-Food-Delivery-Mobile-App** that provides users with a simple and convenient shopping experience, from account creation to purchasing products.
+
+## 🔐 User Authentication
+
+Users must first create an account using:
+
+* Name
+* Email
+* Password
+
+After creating an account, the user must **log in** before purchasing products.
+
+## 🛍️ Product Shopping
+
+After login, users can browse available products and manage the quantity of each product using **Add (+)** and **Remove (−)** buttons.
+
+When the quantity changes, the **corresponding product price is automatically updated**.
+
+## 🛒 Shopping Cart
+
+Selected products can be added to the **Shopping Cart**, where users can review their products, quantities, and updated prices before purchasing.
+
+## ✅ Purchase
+
+The cart contains a **Purchase** button. When the user presses it, a confirmation popup is displayed:
+
+**"Purchase Successful"**
+
+This provides the user with immediate confirmation that the purchase has been completed.
+
+## ⭐ Key Features
+
+* User Sign Up
+* User Login
+* Product Browsing
+* Product Quantity Management
+* Increase/Decrease Quantity
+* Dynamic Price Calculation
+* Add to Cart
+* Cart Management
+* Purchase Processing
+* Purchase Success Confirmation
+
+## 🎯 Project Objective
+
+The main objective of this application is to provide a **simple and user-friendly mobile shopping experience** while demonstrating essential e-commerce functionality such as authentication, product selection, dynamic pricing, cart management, and purchase confirmation.
+
